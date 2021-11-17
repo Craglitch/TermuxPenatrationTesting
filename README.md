@@ -1,8 +1,5 @@
 # THR - PROJECT
-## hacking tools list
-### will be add soon :
-No Yet
-### List of tools :
+### List of packages :
 ```
 +----+----------------------------+---------+
 | ID |          PACKAGES          | STATUS  |

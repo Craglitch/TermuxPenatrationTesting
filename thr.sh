@@ -107,7 +107,7 @@ function installing() {
 clear
 echo "
 [31m
-    POWER BY TERMUX HACKING REPO[33m
+   TermuxPenatrationTesting - Project[33m
 
 +----+----------------------------+---------+
 | ID |          PACKAGES          | STATUS  |

@@ -1,4 +1,4 @@
-# THR - PROJECT
+# TPT - PROJECT
 ### List of packages :
 ```
 +----+----------------------------+---------+
